@@ -6,7 +6,7 @@ layout: page
 
 Hi! My name is Boris. I'm a machine learning and big data professional with 10+ years of experience. Please see my [CV](boris-shminke.pdf) or find me at the [LinkedIn](https://www.linkedin.com/in/inpefess/).
 
-Now I'm working as a PhD candidate (defence expected in Sep 2023) at [Dieudonné math lab](https://math.unice.fr/laboratoire/fiche%26id%3d963.html). Please see my [publication list](https://scholar.google.com/citations?user=AxWTLt0AAAAJ) on applying artificial intelligence to theorem proving.
+I obtained my PhD on 01Sep2023 at [Dieudonné math lab](https://math.unice.fr/laboratoire/fiche%26id%3d963.html), where I work. Please see my [publication list](https://scholar.google.com/citations?user=AxWTLt0AAAAJ) on applying artificial intelligence to theorem proving.
 
 My recent projects include
 * a collection of OpenAI Gym [environments](https://github.com/inpefess/gym-saturation) for automated provers
