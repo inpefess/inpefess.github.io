@@ -11,18 +11,19 @@ professional with 15+ years of experience. Please see my
 [CV](boris-shminke.pdf) or find me at the
 [LinkedIn](https://www.linkedin.com/in/inpefess/).
 
-I defended my PhD [thesis](https://theses.fr/2023COAZ4058) in AI
-application to automated theorem proving. My research projects
-included
-* a collection of Gymnasium
-  [environments](https://github.com/inpefess/gym-saturation) for
-  automated provers
-* a Python [client](https://github.com/inpefess/isabelle-client) to
-  Isabelle proof assistant server
+My current projects include GenAI [training
+assistant](https://expleo.com/global/en/case-studies/gen-ai-training-coach/)
+and hierarchical data extraction from free text using LLMs.
 
-You can find my publication list
-[here](https://scholar.google.com/citations?user=AxWTLt0AAAAJ).
-
-I've also contributed to [Apache
+I contribute code to open source software, including my tiny projects
+(collection of [RL
+environments](https://github.com/inpefess/gym-saturation) and a
+Python [client](https://github.com/inpefess/isabelle-client) to a
+proof assistant) as well as large and famous ones ([Apache
 Spark](https://github.com/apache/spark/pull/20691) and
-[Ray](https://github.com/ray-project/ray/pull/34790).
+[Ray](https://github.com/ray-project/ray/pull/34790)).
+
+I defended a PhD [thesis](https://theses.fr/2023COAZ4058) and
+published
+[papers](https://scholar.google.com/citations?user=AxWTLt0AAAAJ) in
+AI for automated theorem proving.
