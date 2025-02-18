@@ -8,7 +8,7 @@ layout: page
 
 Hi! My name is Boris. I'm a machine learning and big data
 professional with 15+ years of experience. Please see my
-[CV](boris-shminke.pdf) or find me at the
+[CV](boris-shminke.pdf) or find me at
 [LinkedIn](https://www.linkedin.com/in/inpefess/).
 
 My current projects include GenAI [training
