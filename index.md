@@ -12,8 +12,9 @@ professional with 15+ years of experience. Please see my
 [LinkedIn](https://www.linkedin.com/in/inpefess/).
 
 My current projects include GenAI [training
-assistant](https://expleo.com/global/en/case-studies/gen-ai-training-coach/)
-and hierarchical data extraction from free text using LLMs.
+assistant](https://expleo.com/global/en/case-studies/gen-ai-training-coach/),
+hierarchical data extraction from free text using LLMs, and code
+generation for ecological modelling.
 
 I contribute code to open source software, including my tiny projects
 (collection of [RL
